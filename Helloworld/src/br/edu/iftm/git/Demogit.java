@@ -6,7 +6,7 @@ public class Demogit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-	System.out.println("Veja o git no eclipse");
+	System.out.println("Veja o git no eclipse com o egit");
 
 	}
 
